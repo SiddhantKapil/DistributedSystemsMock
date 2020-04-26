@@ -17,7 +17,7 @@ My motive behind this project is to build an easy-to-use demo for showcasing how
 * Showcase difference between Asynchronous and Synchronous calls
 
 ### How To Use
-* Run the server run 'server.sh'
-* On a new terminal run 'client.sh'. Client will make all the API call and you can see the outputs.
+* Run the server run `./server.sh`
+* On a new terminal run `./client.sh`. Client will make all the API call and you can see the outputs.
 
 I will be glad to hear from you if this helped you in any way. Feedbacks are welcome. Thank you.
