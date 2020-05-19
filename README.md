@@ -4,6 +4,13 @@
 
 My motive behind this project is to build an easy-to-use demo for showcasing how Distributed systems work. I took a PDA as a processing server and added multiple PDAs to simulate a distributed system. Client can make several different API calls and perform CRUD operations, I took a pure RESTful approach in designing these APIs.Note this project is client-centric.
 
+### Requirements
+
+"github.com/google/uuid"
+"github.com/gorilla/mux"
+"github.com/patrickmn/go-cache"
+
+
 ### Features Covered Till now
 
 * Client can introduce new PDAs.
