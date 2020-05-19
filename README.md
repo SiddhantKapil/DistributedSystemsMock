@@ -6,9 +6,9 @@ My motive behind this project is to build an easy-to-use demo for showcasing how
 
 ### Requirements
 
-"github.com/google/uuid"
-"github.com/gorilla/mux"
-"github.com/patrickmn/go-cache"
+* "github.com/google/uuid"
+* "github.com/gorilla/mux"
+* "github.com/patrickmn/go-cache"
 
 
 ### Features Covered Till now
