@@ -1,4 +1,4 @@
-# RESTful APIs Demo
+# Distributed Systems with RESTful API demo
 
 ### About This Project
 
